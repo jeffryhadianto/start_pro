@@ -8,7 +8,9 @@
   
   phpinfo(); 
 
+	echo "Hello World";
   ?>
+
   </body>
 </html>
 
