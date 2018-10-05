@@ -3,4 +3,5 @@
 
 echo "test latihan";
 
+echo "edited";
 ?>
